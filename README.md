@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Leonardo Lima, a software development enthusiast who embarked on the coding journey in 2020 and is currently navigating through the final semester of the Analysis and Systems Development course. I've been part of small projects and integrative projects at college, applying all the knowledge gained. This includes everything from requirements gathering to diagram creation and the effective implementation of Frontend, Backend, and database connections, encompassing software testing execution and project management.
+I'm Leonardo Lima, a software development enthusiast who embarked on the coding journey in 2020 and is currently navigating through the final semester of the Analysis and Systems Development course  at IFRN. I've been part of small projects and integrative projects at college, applying all the knowledge gained. This includes everything from requirements gathering to diagram creation and the effective implementation of Frontend, Backend, and database connections, encompassing software testing execution and project management.
 
 ## About Me
 
